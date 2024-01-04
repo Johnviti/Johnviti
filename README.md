@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <br>
 - https://johnviti.github.io/Landing-Page/ - Meu Portifólio
 <br>
-![Snake animation](https://github.com/Johnviti/Johnviti/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Johnviti/Johnviti/blob/output/github-contribution-grid-snake.svg)
