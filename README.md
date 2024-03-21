@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Ola! eu sou o John Victor! 
-- Desenvolvedor PHP(Laravel) na SEPLAG!
+- Desenvolvedor Front-end/Designer UI/UX!
 - Graduando de Sistema de Informação.
 <div>
   <a href="https://github.com/Johnviti">
