@@ -1,6 +1,6 @@
 ## Ola! eu sou o John Victor! 
-- Desenvolvedor Front-end/Designer UI/UX!
-- Graduando de Sistema de Informação.
+- Desenvolvedor Front-end/Designer UI/UX na Mesha Tecnologia!
+- Graduando de Sistemas de Informação.
 <div>
   <a href="https://github.com/Johnviti">
   <img height="180em"  align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/Johnviti?cardType=level&theme=dracula&preferLogin=false&Title=61DAFB&Ring=61DAFB" />
