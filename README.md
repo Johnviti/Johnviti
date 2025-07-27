@@ -1,5 +1,5 @@
 ## Ola! eu sou o John Victor! 
-- Desenvolvedor Front-end/Designer UI/UX na Mesha Tecnologia!
+- Programador FullStack
 - Graduando de Sistemas de Informação.
 <div>
   <a href="https://github.com/Johnviti">
