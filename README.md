@@ -19,7 +19,7 @@
 </div>
 <br>
 <div> 
-  <a href="https://johnviti.github.io/Landing-Page/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
+  <a href="https://john-amorim-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank"></a>
   <a href="https://johnviti.github.io/CursosLanding/" target="_blank"><img src="https://img.shields.io/badge/site projeto-purple?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
   <a href="https://johnviti.github.io/TechHub/" target="_blank"><img src="https://img.shields.io/badge/Site Tech-purple?style=for-the-badge&logo=website&logoColor=white" /></a>
   <a href="https://johnviti.github.io/3D-Animation/" target="_blank"><img src="https://img.shields.io/badge/site-3D-green?style=for-the-badge&logo=3D&logoColor=white" target="_blank"></a> 
