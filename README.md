@@ -2,33 +2,8 @@
   <img height="250" src="./space%20boy%20developer.svg" alt="Space Boy Developer" />
   
   # John Victor
-  ### Programador FullStack
-  <br/>
-
-  <!-- Sugestão: Citação do Dia -->
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
-  </a>
-  <br/><br/>
-
-  <!-- Sugestão: WakaTime Stats -->
-  <a href="https://wakatime.com/@Johnviti">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Johnviti&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-  </a>
-  <br/><br/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=38bdf8&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia;Criando+solu%C3%A7%C3%B5es+inovadoras" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Johnviti&label=Visualizações+do+Perfil&color=38bdf8&style=flat" alt="profile views" />
-  <br/><br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Johnviti&theme=tokyonight" alt="trophy" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia;Criando+solu%C3%A7%C3%B5es+inovadoras" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,16 +13,25 @@
   <tr>
     <td valign="top" width="55%">
       <h3>Sobre mim</h3>
-      <p>Sou <b>Desenvolvedor Web FullStack</b> focado em criar sistemas, plataformas SaaS e produtos digitais que aliam eficiência operacional e ótima experiência do usuário.</p>
-      <p>Atualmente no <b>Observatório da Indústria (FIEA)</b>, trabalho no desenvolvimento de soluções estratégicas, visualização de dados e Design Systems.</p>
+      <p><b>Desenvolvedor Full Stack</b> especializado no desenvolvimento de sistemas web, plataformas SaaS e soluções digitais escaláveis, com foco em performance, usabilidade e geração de valor para o negócio.</p>
+      <p>Atualmente no <b>Observatório da Indústria (FIEA)</b>.</p>
     </td>
     <td valign="top" width="45%">
-      <h3>Experiência Técnica & Qualidades</h3>
-      <ul>
-        <li><b>Front-end:</b> React, TypeScript, Angular, HTML/CSS</li>
-        <li><b>Back-end & Infra:</b> PHP, Node.js, REST APIs, Docker, Vercel</li>
-        <li><b>UX/UI & Design:</b> Figma, CorelDraw, Illustrator, Photoshop</li>
-      </ul>
+      <h3>Tecnologias</h3>
+      <div align="center">
+        <!-- JS, React, Angular, Node, HTML5, CSS3, Git, GitHub, VS Code, Android, Bootstrap -->
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="50">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50">
+      </div>
     </td>
   </tr>
 </table>
@@ -75,26 +59,26 @@
 
 ### Estatísticas e Atividades
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
+  <tr>
+    <td width="65%">
+      <img width="100%" src="https://raw.githubusercontent.com/Johnviti/Johnviti/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+    </td>
+    <td width="35%" align="center">
+      <img height="150" src="./WebDevelopment.svg" alt="Space Boy Developer" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Johnviti?cardType=level&theme=tokyonight&preferLogin=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnviti&layout=compact&langs_count=7&theme=tokyonight" />
-  
-  <br/>
-
-  <table align="center" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
-    <tr>
-      <td><img width="440" src="https://raw.githubusercontent.com/Johnviti/Johnviti/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="github stats" /></td>
-      <td><img width="440" src="https://raw.githubusercontent.com/Johnviti/Johnviti/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" /></td>
-    </tr>
-  </table>
-
-  <img width="880" src="https://raw.githubusercontent.com/Johnviti/Johnviti/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
     <img width="880" alt="github contribution snake" src="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
   </picture>
+</div>
 
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Johnviti&label=Visualizações+do+Perfil&color=38bdf8&style=flat" alt="profile views" />
 </div>
