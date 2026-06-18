@@ -4,11 +4,11 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Olá,+eu+sou+o+John+Victor!;Programador+FullStack;Desenvolvedor+apaixonado+por+tecnologia;Entusiasta+de+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Ol%C3%A1,+eu+sou+o+John+Victor!;Programador+FullStack;Desenvolvedor+apaixonado+por+tecnologia;Entusiasta+de+IA" alt="Typing SVG" />
   </a>
-
-  #
 </div>
+
+#
 
 <br/>
 
