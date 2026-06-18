@@ -1,10 +1,13 @@
 <div align="center">
   <img height="250" src="./space%20boy%20developer.svg" alt="Space Boy Developer" />
-  
-  # John Victor
+</div> 
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia;Criando+solu%C3%A7%C3%B5es+inovadoras" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Olá,+eu+sou+o+John+Victor!;Programador+FullStack;Desenvolvedor+apaixonado+por+tecnologia;Entusiasta+de+IA" alt="Typing SVG" />
   </a>
+
+  #
 </div>
 
 <br/>
@@ -59,22 +62,16 @@
 
 ### Estatísticas e Atividades
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none">
-  <tr>
-    <td width="65%">
-      <img width="100%" src="https://raw.githubusercontent.com/Johnviti/Johnviti/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
-    </td>
-    <td width="35%" align="center">
-      <img height="150" src="./WebDevelopment.svg" alt="Space Boy Developer" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Johnviti/Johnviti/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="100%" />
+  <!-- <img src="./WebDevelopment.svg" alt="Space Boy Developer" width="16%" /> -->
+</p>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
-    <img width="880" alt="github contribution snake" src="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
+    <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
   </picture>
 </div>
 
