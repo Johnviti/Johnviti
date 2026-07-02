@@ -4,11 +4,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=ffffff&center=true&vCenter=true&width=620&lines=Ol%C3%A1,+eu+sou+o+John+Victor!;Programador+FullStack;Desenvolvedor+apaixonado+por+tecnologia;Entusiasta+de+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=cccccc&center=true&vCenter=true&width=620&lines=Ol%C3%A1,+eu+sou+o+John+Victor!;Programador+FullStack;Desenvolvedor+apaixonado+por+tecnologia;Entusiasta+de+IA" alt="Typing SVG" />
   </a>
 </div>
-
-#
 
 <br/>
 
@@ -67,15 +65,12 @@
   <!-- <img src="./WebDevelopment.svg" alt="Space Boy Developer" width="16%" /> -->
 </p>
 
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" width="100%" />
+</p>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
-    <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/Johnviti/Johnviti/output/github-snake.svg" />
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Johnviti&label=Visualizações+do+Perfil&color=38bdf8&style=flat" alt="profile views" />
-</div>
